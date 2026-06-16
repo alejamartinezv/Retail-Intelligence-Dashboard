@@ -1,6 +1,8 @@
 # 🚀 Retail Intelligence & District Management Dashboard
 
-> **Business Case:** Strategic optimization for Merchandising District Management and Key Account Management (KAM) analysis.
+> Retail leaders need visibility into sales performance, inventory availability and execution quality to identify growth opportunities and improve field productivity.
+
+This dashboard provides an integrated view of key operational KPIs, helping leaders make faster and smarter business decisions.
 
 ---
 
